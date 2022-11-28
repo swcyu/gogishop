@@ -24,8 +24,7 @@
   - 장바구니 페이지
 - 회원가입 후 상품을 주문할 수 있는 사이트를 제작하였습니다.
 
----
-
+## 화면 캡쳐
 ![main1](https://user-images.githubusercontent.com/84915765/204213855-ed912504-7558-40fe-924f-dc0b6f1da7cb.jpg)
 <메인 페이지>
 
