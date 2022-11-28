@@ -1,0 +1,83 @@
+@CHARSET "UTF-8";
+
+.content{
+	height: 5000px;
+}
+
+.visable{
+	visibility: visible;
+}
+.unvisable{
+	display: none;
+}
+.hidden { overflow:hidden }
+
+.btn1{
+	display: block;
+    margin-left: auto;
+    width: 86.3px;
+    height: 32px;
+    background-color: #f7f7f7;
+    border: 1px solid #d3d3d3;
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: -3px;
+}
+
+#btn2{
+	float: right;
+	display: block;
+    margin-left: auto;
+    width: 90px;
+    height: 32px;
+    background-color: #ffffff;
+    border: 1px solid #d3d3d3;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: -3px;
+}
+#btn3{
+	display: block;
+    margin-left: auto;
+    width: 90px;
+    height: 32px;
+    background-color: #f7f7f7;
+    border: 1px solid #d3d3d3;
+    font-size: 11px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#btn4{
+	display: block;
+    width: 60px;
+    height: 30px;
+    background-color: #f7f7f7;
+    border: 1px solid #d3d3d3;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 5px;
+   	
+	margin-bottom: 5px;
+}
+#btn5{
+	display: block;
+    margin-left: auto;
+    width: 90px;
+    height: 32px;
+    background-color: #f7f7f7;
+    border: 1px solid #d3d3d3;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#btn6{
+	display: block;
+    width: 90px;
+    height: 32px;
+    background-color: #f7f7f7;
+    border: 1px solid #d3d3d3;
+    font-size: 12px;
+    font-weight: 700;
+}
